@@ -3,10 +3,15 @@ C - Binary trees
 
 # General
 What is a binary tree
+
 What is the difference between a binary tree and a Binary Search Tree
+
 What is the possible gain in terms of time complexity compared to linked lists
+
 What are the depth, the height, the size of a binary tree
+
 What are the different traversal methods to go through a binary tree
+
 What is a complete, a full, a perfect, a balanced binary tree
   
  
@@ -15,8 +20,7 @@ What is a complete, a full, a perfect, a balanced binary tree
 typedef struct binary_tree_s bst_t;
 
 # AVL Tree
-
-# typedef struct binary_tree_s avl_t;
+typedef struct binary_tree_s avl_t;
 
 # Max Binary Heap
 typedef struct binary_tree_s heap_t;
